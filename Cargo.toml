@@ -1,0 +1,15 @@
+[package]
+name = "strprintf"
+version = "0.1.0"
+authors = ["Alexander Batischev <eual.jp@gmail.com>"]
+edition = "2021"
+# ==============
+readme = "README.md"
+description = """Provide a way to interpolate printf-style format strings using native Rust types.
+Part of libnewsboat lib dependencies"""
+homepage = "https://github.com/newsboat/newsboat"
+repository = "https://github.com/newsboat/newsboat"
+license = "MIT"
+
+[dependencies]
+libc = "0.2"

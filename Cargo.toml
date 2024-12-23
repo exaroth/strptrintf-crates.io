@@ -8,7 +8,7 @@ readme = "README.md"
 description = """Provide a way to interpolate printf-style format strings using native Rust types.
 Part of libnewsboat lib dependencies"""
 homepage = "https://github.com/newsboat/newsboat"
-repository = "https://github.com/newsboat/newsboat"
+repository = "https://github.com/exaroth/strptrintf-crates.io"
 license = "MIT"
 
 [dependencies]

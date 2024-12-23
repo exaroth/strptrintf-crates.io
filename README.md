@@ -1,7 +1,6 @@
-# Strprintf
+# Strprintf (part of Libnewsboat library)
 
-This project is part of [Newsboat](https://github.com/newsboat) Rust libraries, I'm not it's author - merely
-maintaining up to date versions on Crates.io.
+__Disclaimer:__ This project is part of [Newsboat](https://github.com/newsboat/newsboat) Rust libraries, I'm not it's author - merely maintaining up to date versions on Crates.io.
 
 ## Description
 
